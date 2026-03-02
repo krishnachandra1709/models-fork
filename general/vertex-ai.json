@@ -1349,6 +1349,12 @@
     },
     "disablePlayground": true
   },
+  "imagen-3.0-capability-001": {
+    "type": {
+      "primary": "image"
+    },
+    "disablePlayground": true
+  },
   "imagen-4.0-fast-generate-preview-06-06": {
     "type": {
       "primary": "image"
